@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.logo {
+    font-family: Allerta Stencil, serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.logo span {
+    color: rgb(161, 138, 104);
+}
+
+.nav-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    column-gap: 64px;
+    list-style: none;
+}
+
+.nav-wrapper {
+    display: flex;
+    align-items: center;
+    column-gap: 48px;
+}
+
+.divider {
+    width: 1px;
+    height: 12px;
+    background-color: rgb(112, 112, 112);
+}

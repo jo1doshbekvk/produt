@@ -1,0 +1,12 @@
+{
+    "products":[
+        {
+            "title": "Title name",
+            "description": "Description",
+            "price": 200,
+            "sku":12,
+            "category": "test",
+            "image":"image"
+        }
+    ]
+}

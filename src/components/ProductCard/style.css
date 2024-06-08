@@ -1,0 +1,22 @@
+.product-card {
+    max-width: 377px;
+    width: 100%;
+    cursor: pointer;
+}
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.product-title {
+    margin: 24px 0 16px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.product-price {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(161, 138, 104);
+    text-transform: capitalize;
+}

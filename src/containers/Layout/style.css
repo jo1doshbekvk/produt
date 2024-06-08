@@ -1,0 +1,10 @@
+.layout {
+
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1278px;
+    width: 100%;
+    padding: 64px 15px 90px;
+}

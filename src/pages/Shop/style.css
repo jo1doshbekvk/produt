@@ -1,0 +1,60 @@
+.Shop-img {
+  background-image: url("/src/images/Shopimg.png");
+  width: 540px;
+  height: 550px;
+  top: 235px;
+  left: 256px;
+  border-radius: 8px 0px 0px 0px;
+}
+
+.Shop-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Shop-h2 {
+  width: 73px;
+  height: 26px;
+  color: #a18a68;
+}
+.Shop-ui {
+  list-style: none;
+  column-gap: 10px;
+  display: flex;
+
+}
+
+.Shop-text p {
+  width: 484px;
+  height: 108px;
+}
+.head:hover {
+  color: red;
+}
+.Shop-input {
+  width: 82px;
+  height: 43px;
+  border-radius: 4px 0px 0px 0px;
+  text-align: center;
+}
+.Shop-in {
+  width: 300px;
+  height: 43px;
+  text-align: center;
+  margin: 0 20px;
+}
+.cart-menu {
+  display: flex;
+  align-items: center;
+}
+.Shop-ul {
+  list-style: none;
+  column-gap: 20px;
+  display: flex;
+}
+.divider {
+  margin: 0 20px;
+  width: 2px;
+  height: 23px;
+}

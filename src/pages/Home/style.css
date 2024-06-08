@@ -1,0 +1,40 @@
+.home {
+
+}
+
+.big-image-block {
+    background-image: url('/src/images/Img\ 01.png');
+
+    height: 646px;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 39px;
+    margin-bottom: 64px;
+}
+
+.image-text {
+    font-size: 33px;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+.top-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 39px;
+}
+
+.home-title {
+    font-size: 33px;
+}
+
+.products-content {
+    margin-bottom: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 54px;
+    row-gap: 86px;
+}
